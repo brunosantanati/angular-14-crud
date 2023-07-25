@@ -77,6 +77,7 @@ $ ng new memoteca
 Exemplos de criação de componentes:
 ng generate component componentes/cabecalho
 ng g c componentes/rodape
+ng g c componentes/pensamentos/criar-pensamento
 ng g c componentes/pensamentos/listar-pensamento
 
 Subir o servidor para acessar a aplicação Angular no browser:
