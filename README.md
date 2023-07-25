@@ -40,4 +40,9 @@ ng serve
 
 Acessar:
 http://localhost:4200/listarPensamento
+
+----------
+
+Criar componente:
+ng g c componentes/pensamentos/listar-pensamento
 ``` 
