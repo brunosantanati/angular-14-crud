@@ -8,10 +8,29 @@
 [GitHub repo - aula 4](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-4)  
 [GitHub repo - aula 5](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-5)  
 [GitHub repo - aula 6](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-6) (projeto final) 
+[Angular CLI](https://angular.io/cli)  
 
 ## Comandos utilizados no curso
 
 ```
+Comandos Node (O Node é pré-requisito para instalar o Angular CLI)
+
+Checar versões do Node instaladas:
+nvm ls
+
+Instalar versão específica do Node:
+nvm install 16.16.0
+
+Escolher versão do Node:
+nvm use 16.16.0
+
+----------
+
+Instalação do Angular CLI:
+npm install -g @angular/cli
+
+----------
+
 Dentro da pasta backend:
 
 Criar o arquivo package.json:
@@ -43,6 +62,23 @@ http://localhost:4200/listarPensamento
 
 ----------
 
-Criar componente:
+Outros comandos:
+
+Ver versão do Angular CLI:
+ng version
+
+Criar projeto novo:
+ng new <nome-do-projeto>
+Exemplo de uso:
+$ ng new memoteca
+? Would you like to add Angular routing? Yes
+? Which stylesheet format would you like to use? CSS
+
+Exemplos de criação de componentes:
+ng generate component componentes/cabecalho
+ng g c componentes/rodape
 ng g c componentes/pensamentos/listar-pensamento
+
+Subir o servidor para acessar a aplicação Angular no browser:
+ng serve
 ``` 
