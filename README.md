@@ -7,3 +7,4 @@
 [GitHub repo - aula 3](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-3)   
 [GitHub repo - aula 4](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-4)  
 [GitHub repo - aula 5](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-5)  
+[GitHub repo - aula 6](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-6) (projeto final)  
