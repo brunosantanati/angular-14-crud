@@ -79,6 +79,10 @@ ng generate component componentes/cabecalho
 ng g c componentes/rodape
 ng g c componentes/pensamentos/criar-pensamento
 ng g c componentes/pensamentos/listar-pensamento
+ng g c componentes/pensamentos/pensamento
+ng g s componentes/pensamentos/pensamento
+ng g c componentes/pensamentos/excluir-pensamento
+ng g c componentes/pensamentos/editar-pensamento
 
 Subir o servidor para acessar a aplicação Angular no browser:
 ng serve
