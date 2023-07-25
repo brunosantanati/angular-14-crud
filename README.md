@@ -2,5 +2,5 @@
 
 ## Links
 
-[GitHub repo - aula 1](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-1)
-[GitHub repo - aula 2](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-2)
+[GitHub repo - aula 1](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-1)  
+[GitHub repo - aula 2](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-2)  
