@@ -7,13 +7,13 @@
 [GitHub repo - aula 3](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-3)   
 [GitHub repo - aula 4](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-4)  
 [GitHub repo - aula 5](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-5)  
-[GitHub repo - aula 6](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-6) (projeto final) 
+[GitHub repo - aula 6](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-6) (projeto final)   
 [Angular CLI](https://angular.io/cli)  
 
 ## Comandos utilizados no curso
 
 ```
-Comandos Node (O Node é pré-requisito para instalar o Angular CLI)
+Comandos Node (o Node é pré-requisito para instalar o Angular CLI)
 
 Checar versões do Node instaladas:
 nvm ls
