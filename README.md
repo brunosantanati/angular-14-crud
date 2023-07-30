@@ -2,6 +2,7 @@
 
 ## Links
 
+[Codigo do curso 2 posterior a esse](https://github.com/brunosantanati/angular14-evoluindo-a-aplicacao/)  
 [GitHub repo - aula 1](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-1)  
 [GitHub repo - aula 2](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-2)  
 [GitHub repo - aula 3](https://github.com/alura-cursos/2438-angular-memoteca/tree/aula-3)   
